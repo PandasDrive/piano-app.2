@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lesson Editor (MusicXML)</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; padding: 20px; background-color: #f7f7f7; color: #333; line-height: 1.6; }
+        #container { max-width: 900px; margin: auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        h1, h2 { color: #111; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+        label { font-weight: 600; display: block; margin-bottom: 5px; }
+        input[type="text"], input[type="file"] { display: block; width: 100%; padding: 10px; margin-bottom: 20px; font-size: 1em; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
+        button { background-color: #007bff; color: white; border: none; padding: 10px 15px; font-size: 1em; border-radius: 4px; cursor: pointer; transition: background-color 0.2s; }
+        button:hover { background-color: #0056b3; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { padding: 8px; border: 1px solid #ddd; text-align: left; vertical-align: middle; }
+        th { background-color: #f2f2f2; }
+        .output-section { margin-top: 30px; }
+        textarea { width: 100%; box-sizing: border-box; height: 300px; margin-top: 10px; font-family: monospace; font-size: 14px; border: 1px solid #ccc; }
+        #preview-container { border: 1px solid #ccc; background-color: #fff; padding: 10px; margin-top: 20px; overflow-x: auto; }
+        td select, td input { width: 100%; padding: 6px; border: 1px solid #ccc; border-radius: 4px; font-size: 0.9em; box-sizing: border-box; }
+        .output-header { display: flex; justify-content: space-between; align-items: center; }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/opensheetmusicdisplay@1.8.4/build/opensheetmusicdisplay.min.js"></script>
+</head>
+<body>
+    <div id="container">
+        <h1>Lesson Editor</h1>
+        
+        <label for="lesson-title">1. Enter Lesson Title:</label>
+        <input type="text" id="lesson-title" placeholder="e.g., Minuet in G Major">
+
+        <label for="music-file-input">2. Upload a .musicxml or .xml file:</label>
+        <input type="file" id="music-file-input" accept=".musicxml, .xml">
+        
+        <div id="live-preview-container" style="display:none;">
+            <h2>Live Preview</h2>
+            <div id="preview-container"></div>
+        </div>
+
+        <div id="editor-table-container" style="display:none;">
+            <h2>Parsed Notes (Editable)</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Keys</th>
+                        <th>Duration</th>
+                        <th>Hand</th>
+                    </tr>
+                </thead>
+                <tbody id="notes-tbody"></tbody>
+            </table>
+        </div>
+
+        <div id="json-output-container" class="output-section" style="display:none;">
+            <div class="output-header">
+                <h2>Final JSON</h2>
+                <button id="download-btn">Download JSON</button>
+            </div>
+            <textarea id="json-output" readonly></textarea>
+        </div>
+    </div>
+
+    <script src="js/importer.js"></script>
+</body>
+</html>

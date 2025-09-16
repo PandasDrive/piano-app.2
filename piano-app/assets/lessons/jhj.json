@@ -1,0 +1,22 @@
+{
+  "title": "Autumn Voyage",
+  "ticksPerQuarter": 4,
+  "notes": [
+    { "time": 0, "midi": 40, "duration": 16, "hand": "left" },
+    { "time": 0, "midi": 52, "duration": 16, "hand": "left" },
+    { "time": 1, "midi": 55, "duration": 1, "hand": "right" },
+    { "time": 2, "midi": 64, "duration": 14, "hand": "right" },
+    { "time": 16, "midi": 40, "duration": 16, "hand": "left" },
+    { "time": 16, "midi": 52, "duration": 16, "hand": "left" },
+    { "time": 17, "midi": 55, "duration": 1, "hand": "right" },
+    { "time": 18, "midi": 62, "duration": 14, "hand": "right" },
+    { "time": 32, "midi": 40, "duration": 16, "hand": "left" },
+    { "time": 32, "midi": 52, "duration": 16, "hand": "left" },
+    { "time": 33, "midi": 55, "duration": 1, "hand": "right" },
+    { "time": 34, "midi": 60, "duration": 14, "hand": "right" },
+    { "time": 48, "midi": 40, "duration": 16, "hand": "left" },
+    { "time": 48, "midi": 52, "duration": 16, "hand": "left" },
+    { "time": 49, "midi": 55, "duration": 1, "hand": "right" },
+    { "time": 50, "midi": 59, "duration": 14, "hand": "right" }
+  ]
+}

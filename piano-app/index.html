@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Piano Teacher</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/keyboard.css">
+</head>
+<body>
+    <header>
+        <h1>Web Piano Teacher</h1>
+    </header>
+
+    <main>
+        <div class="controls">
+            <div class="control-group">
+                <label for="midi-ports-select">MIDI Input:</label>
+                <select id="midi-ports-select">
+                    <option value="">No MIDI Devices Found</option>
+                </select>
+                <button id="connect-btn">Connect</button>
+            </div>
+            <div class="control-group">
+                <label for="lesson-select">Choose a Lesson:</label>
+                <select id="lesson-select">
+                    <option value="">Select a lesson</option>
+                </select>
+                <button id="start-lesson-btn">Start Lesson</button>
+                <button id="stop-lesson-btn">Stop Lesson</button>
+            </div>
+        </div>
+
+        <div id="piano" class="piano-container">
+            <div id="piano-keys">
+                </div>
+        </div>
+
+        <div id="lesson-info">
+            <p id="status-message">Please connect a MIDI device.</p>
+            <h2 id="lesson-title"></h2>
+        </div>
+        
+        <div id="sheet-music"></div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/jzz"></script>
+    <script src="js/vexflow.min.js"></script>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>

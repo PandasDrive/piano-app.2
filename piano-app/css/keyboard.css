@@ -1,0 +1,55 @@
+.piano-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    overflow-x: auto;
+}
+
+#piano-keys {
+    display: flex;
+    position: relative;
+    height: 180px;
+}
+
+.key {
+    border: 1px solid #000;
+    position: relative;
+    cursor: pointer;
+}
+
+.white-key {
+    background-color: white;
+    width: 40px;
+    height: 100%;
+}
+
+.black-key {
+    background-color: black;
+    width: 24px;
+    height: 60%;
+    position: absolute;
+    z-index: 1;
+}
+
+.key-label {
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+    pointer-events: none;
+}
+
+/* --- ADDED: Lesson Feedback Styles --- */
+.key-next {
+    background-color: #3498db !important;
+}
+
+.key-correct {
+    background-color: #2ecc71 !important;
+}
+
+.key-incorrect {
+    background-color: #e74c3c !important;
+}

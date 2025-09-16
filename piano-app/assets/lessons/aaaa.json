@@ -1,0 +1,6291 @@
+{
+  "title": "Untitled Score",
+  "notes": [
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "1",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "1",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "1",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "1",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "60/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "52/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "60/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "52/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.75",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "60/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "52/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "60/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "52/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.75",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined",
+        "67/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined",
+        "64/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined",
+        "64/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined",
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined",
+        "67/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined",
+        "62/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined",
+        "62/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "55/undefined",
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined",
+        "66/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.25",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined",
+        "66/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.25",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "60/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "60/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "54/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "55/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "59/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "57/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "62/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "72/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "72/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.75",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "72/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "72/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.5",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "64/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.75",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined",
+        "79/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined",
+        "76/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined",
+        "76/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined",
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined",
+        "79/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "67/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined",
+        "78/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined",
+        "78/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.375",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined",
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "0/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "72/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "52/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "72/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "76/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "83/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "43/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "78/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "66/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "67/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "47/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "71/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "38/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "45/undefined"
+      ],
+      "duration": "0.125",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "69/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "42/undefined",
+        "50/undefined"
+      ],
+      "duration": "0.25",
+      "hand": "left"
+    },
+    {
+      "keys": [
+        "74/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "81/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "79/undefined"
+      ],
+      "duration": "0.0625",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "67/undefined",
+        "71/undefined",
+        "76/undefined"
+      ],
+      "duration": "1",
+      "hand": "right"
+    },
+    {
+      "keys": [
+        "40/undefined",
+        "47/undefined",
+        "52/undefined"
+      ],
+      "duration": "1",
+      "hand": "left"
+    }
+  ]
+}
